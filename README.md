@@ -18,7 +18,8 @@ This project demonstrates a **DevOps pipeline** that integrates:
 - ✅ **Flask app** containerized with Docker  
 - ✅ **Trivy** scanning for vulnerabilities & SBOM  
 - ✅ **Promtail → Loki** pipeline for log collection  
-- ✅ **GitHub Actions** CI/CD to build & push images  
+- ✅ **GitHub Actions** CI/CD to build & push images
+- 
 
 It provides a **mini end-to-end setup** for secure, observable, and automated deployments.
 
