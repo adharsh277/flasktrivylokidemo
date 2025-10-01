@@ -8,7 +8,7 @@
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI/CD-green?logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-Flask-app-blue?logo=python)
 
----
+--
 
 ## 📌 Project Overview
 
